@@ -4,3 +4,4 @@
 
 ![1](https://visitor-badge.glitch.me/badge?page_id=MRNOBODY-ZST.readme)
 
+![2](http://antzuhl.cn:4000/get/@MRNOBODY-ZST.readme)
