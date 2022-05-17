@@ -3,10 +3,15 @@
 </div>  
 
 # 💫About Me :
+
 🔭 I’m currently working on : MirrorServerSync - An MCDR Plugin
+
 👯 I’m looking to collaborate on : MCDReforged
+
 🤝 I’m looking for help with : Players Who Play Minecraft
+
 🌱 I’m currently learning : C++ , C , C# , JAVA , Python , Go
+
 💬 Ask me about : ¿
 
 # 💻Tech Stack
