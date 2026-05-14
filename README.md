@@ -107,19 +107,21 @@ Comprehensive data processing and workflow orchestration platform. Designed for 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MRNOBODY-ZST&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/MRNOBODY-ZST)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRNOBODY-ZST&theme=radical)
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MRNOBODY-ZST&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/MRNOBODY-ZST)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRNOBODY-ZST&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRNOBODY-ZST&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true&background=0d1117)](https://github.com/MRNOBODY-ZST)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRNOBODY-ZST&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRNOBODY-ZST&theme=radical)
 
 </div>
 
-### 📈 Activity Graph
+### 📈 Contribution Streak
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRNOBODY-ZST&theme=react-dark&hide_border=true&area=true)](https://github.com/MRNOBODY-ZST)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 
@@ -132,11 +134,6 @@ Comprehensive data processing and workflow orchestration platform. Designed for 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRNOBODY-ZST&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
-
----
-
-## 🔝 Top Contributed Repositories
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=MRNOBODY-ZST&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
