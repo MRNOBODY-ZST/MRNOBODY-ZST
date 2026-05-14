@@ -107,24 +107,21 @@ Comprehensive data processing and workflow orchestration platform. Designed for 
 
 <div align="center">
 
-<a href="https://github.com/MRNOBODY-ZST">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRNOBODY-ZST&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRNOBODY-ZST&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MRNOBODY-ZST&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)](https://github.com/MRNOBODY-ZST)
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MRNOBODY-ZST&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/MRNOBODY-ZST)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true&background=0d1117)](https://github.com/MRNOBODY-ZST)
 
 </div>
 
-### 📈 Contribution Streak
+### 📈 Activity Graph
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRNOBODY-ZST&theme=react-dark&hide_border=true&area=true)](https://github.com/MRNOBODY-ZST)
 
 </div>
-
-### 📈 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/MRNOBODY-ZST/MRNOBODY-ZST/output/snake.svg)
 
 ---
 
