@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Cloud Architecture Enthusiast | Open Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/MRNOBODY-ZST?style=social)](https://github.com/MRNOBODY-ZST)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=MRNOBODY-ZST&icon=1&color=5)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=MRNOBODY-ZST&color=blueviolet&style=flat-square)](https://github.com/MRNOBODY-ZST)
 
 </div>
 
@@ -106,12 +106,19 @@ Comprehensive data processing and workflow orchestration platform. Designed for 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRNOBODY-ZST&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MRNOBODY-ZST&theme=radical&hide_border=false)
+<a href="https://github.com/MRNOBODY-ZST">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRNOBODY-ZST&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRNOBODY-ZST&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRNOBODY-ZST&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+</div>
+
+### 📈 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true)
 
 </div>
 
