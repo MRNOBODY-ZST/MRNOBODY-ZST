@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm MRNOBODY-ZST
+# 👋 Hi, I'm Hades
 
-### Full-Stack Developer | Cloud Architecture Enthusiast | Open Source Contributor
+### Full-Stack Developer · Reactive Systems · Applied AI
 
-[![GitHub followers](https://img.shields.io/github/followers/MRNOBODY-ZST?style=social)](https://github.com/MRNOBODY-ZST)
-[![Profile Views](https://komarev.com/ghpvc/?username=MRNOBODY-ZST&color=blueviolet&style=flat-square)](https://github.com/MRNOBODY-ZST)
+[![GitHub followers](https://img.shields.io/github/followers/MRNOBODY-ZST?style=social)](https://github.com/MRNOBODY-ZST) [![Profile Views](https://komarev.com/ghpvc/?username=MRNOBODY-ZST&color=blueviolet&style=flat-square)](https://github.com/MRNOBODY-ZST)
+
+[Website](https://hadesd.sh) · [All Repositories](https://github.com/MRNOBODY-ZST?tab=repositories)
 
 </div>
 
@@ -13,135 +14,65 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building scalable systems and exploring cutting-edge technologies. Currently diving deep into **Java ecosystem** and **Swift development**, while working on innovative projects that bridge cloud storage solutions with modern application architectures.
+I build systems that collect, process, and present information: infrastructure monitoring, data pipelines, research workflows, and tools for publishing on the web.
+
+My recent work combines **Java / Spring WebFlux** backends, **Vue / React / TypeScript** interfaces, and **Python / Ray** workers. I also enjoy exploring creative interfaces, from a CRT-style browser terminal to Minecraft server tooling.
 
 ```typescript
 const developer = {
-  name: "MRNOBODY-ZST",
-  currentFocus: ["Mirage", "DataFlow", "QHZJ", "QingYunCloudStorage"],
-  learning: ["Java", "Swift", "Spring Security"],
-  interests: ["LLMs", "Cloud Architecture", "System Design"],
-  collaboration: ["School Canvas System", "SpringBoot Projects"],
-  askMeAbout: ["Backend Development", "Cloud Solutions", "API Design"]
+  name: "Hades",
+  github: "MRNOBODY-ZST",
+  currentFocus: ["NOERIVA", "hadesd", "CaMelArxivAdv"],
+  buildingWith: ["Java", "TypeScript", "Python"],
+  interests: ["Reactive Systems", "Infrastructure Observability", "Applied AI"]
 };
 ```
 
-### 🎯 Featured Projects
+## 🎯 Recent Projects
 
-<table>
-<tr>
-<td width="50%">
+Selected public work from **May–October 2026**.
 
-#### 🌟 Mirage
-**Next-Generation Visualization Platform**
+| Project | What I'm building | Main stack |
+| --- | --- | --- |
+| **[NOERIVA · 澄观](https://github.com/MRNOBODY-ZST/NOERIVA)** | An infrastructure operations workbench with device telemetry collection, topology discovery, metrics, alerts, probes, and incident evidence. | Java 25 · Spring WebFlux · Vue 3 · Kafka · VictoriaMetrics · ClickHouse |
+| **[HADESD](https://github.com/MRNOBODY-ZST/hadesd)** | A self-hosted blog and publishing system with a retro Macintosh / CRT interface, a browser terminal, Markdown authoring, and atomic version publishing. | React · TypeScript · Three.js · Spring WebFlux · MySQL · Redis |
+| **[CaMelArxivAdv](https://github.com/MRNOBODY-ZST/CaMelArxivAdv)** | An arXiv discovery and outreach platform with contact evidence extraction, analytics, AI-assisted drafts, and approval-based email workflows. | Spring WebFlux · Vue 3 · Python / Ray · Kafka · PostgreSQL · MinIO |
+| **[EduVoyage](https://github.com/MRNOBODY-ZST/EduVoyage)** | A university learning platform covering courses, knowledge graphs, assessments, cloud files, discussions, and learning analytics. | Spring WebFlux · Vue 3 · TypeScript · vis-network · MySQL · MongoDB |
+| **[DataFlow](https://github.com/MRNOBODY-ZST/DataFlow)** | A visual DAG editor for data and media processing, backed by distributed workers and live task progress. | VueFlow · Spring WebFlux · Python / Ray · Kafka · Redis · MinIO |
+| **[Mirage](https://github.com/MRNOBODY-ZST/Mirage)** | A Minecraft Fabric mod for incremental dimension and chunk synchronization between main and mirror servers over persistent TCP connections. | Java · Fabric · Netty · Gradle |
 
-A cutting-edge project focused on advanced data visualization and real-time rendering technologies. Built with modern frameworks to deliver immersive visual experiences.
+## 🧰 Tooling & Earlier Work
 
-**Tech Stack:** Vue.js, Three.js, WebGL, TypeScript
-
-</td>
-<td width="50%">
-
-#### 🌊 DataFlow
-**Intelligent Data Pipeline System**
-
-Comprehensive data processing and workflow orchestration platform. Designed for high-throughput data ingestion, transformation, and analytics at scale.
-
-**Tech Stack:** Spring Boot, Apache Kafka, Elasticsearch, Redis
-
-</td>
-</tr>
-</table>
-
-### 📦 Other Projects
-
-- **QHZJ** - Enterprise-level application development
-- **QingYunCloudStorage** - Cloud storage solution with modern architecture
+- **[TailwindCSS-DesignSkill](https://github.com/MRNOBODY-ZST/TailwindCSS-DesignSkill)** — A frontend skill package with tooling to retrieve and adapt Vue / Tailwind CSS components.
+- **[QHZJ · 启航智教](https://github.com/MRNOBODY-ZST/qhzj)** — An education platform built with Spring Boot, Spring Security, and a [Vue frontend](https://github.com/MRNOBODY-ZST/qhzj-frontend).
+- **[QingYunCloudStorage](https://github.com/MRNOBODY-ZST/QingYunCloudStorage)** — A cloud storage project with a Java backend and a [Vue frontend](https://github.com/MRNOBODY-ZST/QingYunCloudStorage-Frontend).
+- **[ComputerVision](https://github.com/MRNOBODY-ZST/ComputerVision)** — Computer vision course experiments and notebooks.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Recent Project Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Cloud & DevOps
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+| Area | Technologies used across these projects |
+| --- | --- |
+| **Backend & APIs** | Java 25, Spring Boot 4, WebFlux, R2DBC, Spring Security |
+| **Web Interfaces** | Vue 3, React, TypeScript, Tailwind CSS, TanStack Query, ECharts, Three.js |
+| **Data & Workers** | Python, Ray, Apache Kafka, Pandas, OpenCV, MinIO |
+| **Storage & Metrics** | MySQL, PostgreSQL, MongoDB, Redis, VictoriaMetrics, ClickHouse |
+| **Deployment** | Docker Compose, Nginx, GitHub Actions, Kubernetes / Helm |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRNOBODY-ZST&theme=radical)
+![GitHub contribution overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRNOBODY-ZST&theme=radical)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRNOBODY-ZST&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRNOBODY-ZST&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRNOBODY-ZST&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRNOBODY-ZST&theme=radical)
-
-</div>
-
-### 📈 Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MRNOBODY-ZST&theme=radical&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MRNOBODY-ZST&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
-## 💡 Random Dev Wisdom
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Languages by repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRNOBODY-ZST&theme=radical) ![Languages by commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRNOBODY-ZST&theme=radical)
 
 </div>
 
@@ -149,18 +80,12 @@ Comprehensive data processing and workflow orchestration platform. Designed for 
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+I'm interested in collaborating on **reactive backend systems**, **infrastructure observability**, **data processing**, and **AI-assisted research tools**.
 
-- 💼 Open to collaborating on: **School Canvas System**, **LLM Projects**, **SpringBoot Applications**
-- 🆘 Looking for help with: **SpringBoot Development** & **Spring Security**
-- 💬 Ask me about: **Backend Architecture**, **Cloud Solutions**, **System Design**
-- ⚡ Fun fact: **The first programming language, FORTRAN, was created in 1957 and is still used today in scientific computing!**
----
+Explore the repositories above, or find my writing and projects at **[hadesd.sh](https://hadesd.sh)**.
 
 <div align="center">
 
-### ⭐ From [MRNOBODY-ZST](https://github.com/MRNOBODY-ZST)
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<sub>MRNOBODY-ZST · Updated October 2026</sub>
 
 </div>
